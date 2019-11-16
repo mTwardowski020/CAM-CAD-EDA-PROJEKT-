@@ -55,6 +55,23 @@ GenerateClassCluster=0
 DocumentUniqueId=RGGSQXOG
 
 [Document2]
+DocumentPath=1_zasilanie.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YLQHEMKR
+
+[Document3]
 DocumentPath=2_astabilny generator sygnalu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPOGYKHB
 
-[Document3]
+[Document4]
 DocumentPath=3_Sterowanie kluczem.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LZKFQOTO
 
-[Document4]
+[Document5]
 DocumentPath=4_Sonda+wzmacniacz.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,8 +122,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVXFVAYB
 
-[Document5]
-DocumentPath=Sheet1.SchDoc
+[Document6]
+DocumentPath=5_Wzmacniacz+Integrator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHUXTJAM
 
-[Document6]
+[Document7]
 DocumentPath=Capacitors_MT_Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGWBRRTR
 
-[Document7]
+[Document8]
 DocumentPath=Resistors_MT_Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,8 +173,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTBXUMRR
 
-[Document8]
-DocumentPath=1_zasilanie.SchDoc
+[Document9]
+DocumentPath=6_Glosnik.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -171,7 +188,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YLQHEMKR
+DocumentUniqueId=RCCYQJOL
+
+[Document10]
+DocumentPath=C:\Users\Public\Documents\Altium\AD19\Library\ExportIntLib\TL062CDR.zip
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
