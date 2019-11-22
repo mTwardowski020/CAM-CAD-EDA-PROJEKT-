@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CNY17_3_300E'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Avago Technologies", "CNY17-3-300E" (!) = "", "SOP254P1016X460-6N", "Small Outline Packages", "630-CNY17-3-300E", "https://www.mouser.com/Search/Refine.aspx?Keyword=630-CNY17-3-300E", "Optocoupler DC i/p Transistor o/p DIP6GW Avago CNY17-3-300E DC Input Transistor Output Optocoupler, Surface Mount, 6-Pin PDIP", "https://componentsearchengine.com/Datasheets/2/CNY17-3-300E.pdf", "4.6 mm"
+END_PART
+
+END.

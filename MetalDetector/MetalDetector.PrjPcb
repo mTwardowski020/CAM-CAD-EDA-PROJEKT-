@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\library_octopart\LIB_CNY17-3-300E\CNY17-3-300E\PADS\Imported PADS Libraries.PrjPcb\CNY17-3-300E.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BVWAWQGI
+
+[Document2]
 DocumentPath=Library\MT_Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGGSQXOG
 
-[Document2]
+[Document3]
 DocumentPath=1_zasilanie.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YLQHEMKR
 
-[Document3]
+[Document4]
 DocumentPath=2_astabilny generator sygnalu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPOGYKHB
 
-[Document4]
+[Document5]
 DocumentPath=3_Sterowanie kluczem.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LZKFQOTO
 
-[Document5]
+[Document6]
 DocumentPath=4_Sonda+wzmacniacz.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVXFVAYB
 
-[Document6]
+[Document7]
 DocumentPath=5_Wzmacniacz+Integrator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHUXTJAM
 
-[Document7]
+[Document8]
+DocumentPath=..\library_octopart\LIB_CNY17-3-300E\CNY17-3-300E\PADS\Imported PADS Libraries.PrjPcb\SOP254P1016X460-6N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IEFUAGXM
+
+[Document9]
 DocumentPath=Capacitors_MT_Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGWBRRTR
 
-[Document8]
+[Document10]
 DocumentPath=Resistors_MT_Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTBXUMRR
 
-[Document9]
+[Document11]
 DocumentPath=6_Glosnik.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCCYQJOL
 
-[Document10]
+[Document12]
 DocumentPath=C:\Users\Public\Documents\Altium\AD19\Library\ExportIntLib\TL062CDR.zip
 AnnotationEnabled=1
 AnnotateStartValue=1

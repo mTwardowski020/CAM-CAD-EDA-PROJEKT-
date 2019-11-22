@@ -1,0 +1,16 @@
+.CNY17-3-300E :1 ;Optocoupler DC i/p Transistor o/p DIP6GW Avago CNY17-3-300E DC Input Transistor Output Optocoupler, Surface Mount, 6-Pin PDIP
+SOP254P1016X460-6N
+*STM IC
+*NGS
+*PLB 1="ANODE" 2="CATHODE" 3="NC" 4="EMITTER" 5="COLLECTOR" 6="BASE"
+*MXP 6
+*DFN CNY17-3-300E
+~!Mouser Part Number (630-CNY17-3-300E)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=630-CNY17-3-300E)
+~!Manufacturer_Name (Avago Technologies)
+~!Manufacturer_Part_Number (CNY17-3-300E)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/CNY17-3-300E.pdf)
+~!Height (4.6mm)
+~!3D_Model (CNY17-3-300E)
+CNY17-3-300E
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

@@ -1,0 +1,132 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "CNY17-3-300E"
+   (description "Optocoupler DC i/p Transistor o/p DIP6GW Avago CNY17-3-300E DC Input Transistor Output Optocoupler, Surface Mount, 6-Pin PDIP")
+   (family "ANA")
+   (package "SOP254P1016X460-6N")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/2/CNY17-3-300E.pdf")
+   (attribute "Geometry.Height" "4.6mm")
+   (attribute "Mouser Part Number" "630-CNY17-3-300E")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=630-CNY17-3-300E")
+   (attribute "Manufacturer_Name" "Avago Technologies")
+   (attribute "Manufacturer_Part_Number" "CNY17-3-300E")
+   (gate
+    (symbol "CNY17-3-300E")
+    (pin "ANODE" 1 PS)
+    (pin "CATHODE" 2 PS)
+    (pin "NC" 3 NC)
+    (pin "BASE" 6 PS)
+    (pin "COLLECTOR" 5 PS)
+    (pin "EMITTER" 4 PS)
+   )
+  )
+  (symbol "CNY17-3-300E"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1300 100) (pt 1300 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOP254P1016X460-6N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -5.85 4.15)
+      (pt 5.85 4.15)
+      (pt 5.85 -4.15)
+      (pt -5.85 -4.15)
+      (pt -5.85 4.15))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.25 3.65)
+      (pt 3.25 3.65)
+      (pt 3.25 -3.65)
+      (pt -3.25 -3.65)
+      (pt -3.25 3.65))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -3.25 1.11)
+      (pt -0.71 3.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.15 3.65)
+      (pt 3.15 3.65)
+      (pt 3.15 -3.65)
+      (pt -3.15 -3.65)
+      (pt -3.15 3.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -5.6 3.615)
+      (pt -3.5 3.615))))
+   (leg 1 (pt -4.55 2.54) (padstack 0))
+   (leg 2 (pt -4.55 0) (padstack 0))
+   (leg 3 (pt -4.55 -2.54) (padstack 0))
+   (leg 4 (pt 4.55 -2.54) (padstack 0))
+   (leg 5 (pt 4.55 0) (padstack 0))
+   (leg 6 (pt 4.55 2.54) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.45 2.1 0 0 0))
+   )
+   (model "CNY17-3-300E.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)
