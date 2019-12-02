@@ -240,6 +240,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDYKUSDV
+<<<<<<< HEAD
 
 [Document13]
 DocumentPath=Blokowy.SchDoc
@@ -257,6 +258,8 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJZXNPNL
+=======
+>>>>>>> 2b2d0b6078ac516ce725c4cfa9dfe88e76f16c9f
 
 [Configuration1]
 Name=Sources
